@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>website.html</title>
+</head>
+<body>
+<center><img src="./picture\banner.jpg"></center>
+<h1 style="color:#FF0000";>RMIT is a global university of technology, design and enterprise</h1>
+<p style="color:#0000ff";><b>• Top 200 </b> universities worldwide (QS World University Ranking 2021)
+<p style="color:#0000ff";><b>• 12,456 </b> industry placements for students in 2022
+<p style="color:#0000ff";><b>• 90,000+ </b> students from 194 different countries studying at RMIT</b>
+<h1 style="color:#FF0000";>Enjoy a global experience</h1>
+<p>As part of a truly global university, we offer experiences at campuses all over the world.</p>
+<p style="color:#0000ff";><b>• Australia </b>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp o Melbourne city campus</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp o Bundoora campus</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp o Brunswick campus</p>
+<p style="color:#0000ff";><b>• Vietnam </b>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp o Saigon South campus</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp o Hanoi campus</p>
+<p style="color:#0000ff";><b>• Spain </b>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp o Barcelona campus</p>
+
+<h1>Explore your study options</h1>
+<p>There are many different paths you can take on your higher education journey.</p>
+<table align="center", bgcolor="red">
+<tr>
+<th></th>
+</tr>
+<tr>
+<th><img src="./picture\programs.png"></th>
+<th><img src="./picture\parents.png"></th>
+<th><img src="./picture\students.png"></th>
+</tr>
+<tr>
+<td><a href="https://www.rmit.edu.vn/study-at-rmit"><p style="color:#0000ff";><b><u>Find a program or course </b></u></p></a>
+<p>&nbsp&nbsp&nbsp&nbsp • Browse by interest area</p>
+<p>&nbsp&nbsp&nbsp&nbsp • Undergraduate programs</p>
+<p>&nbsp&nbsp&nbsp&nbsp • Postgraduate programs</p>
+</td>
+<td><a href="https://www.rmit.edu.vn/about-us/rmit-vn-parents"><p style="color:#0000ff";><b><u>Information for parents </b></u></p></a>
+<p>&nbsp&nbsp&nbsp&nbsp • Accomodation</p>
+<p>&nbsp&nbsp&nbsp&nbsp • Life on campus</p>
+<p>&nbsp&nbsp&nbsp&nbsp • Fees</p></td>
+<td><a href="https://www.rmit.edu.vn/study-at-rmit/english-language-programs"><p style="color:#0000ff";><b><u>Learn English</b></u></p></a>
+<p>&nbsp&nbsp&nbsp&nbsp • English programs</p>
+<p>&nbsp&nbsp&nbsp&nbsp • Corporate English</p>
+<p>&nbsp&nbsp&nbsp&nbsp • Scholarships</p></td>
+</tr>
+</table>
+
+<p align="center"><img src="./picture\logo.png"></p>
+
+
+</body>
+</html>
+
